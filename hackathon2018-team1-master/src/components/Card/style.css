@@ -1,0 +1,51 @@
+.cardBack{
+    background-color: red;
+}
+
+.cardFront{
+    background-color: blue;
+}
+
+.cell{
+    background: linear-gradient(45deg, lightgray, white);
+    width: 100px;
+    height: 100px;
+    border-radius: 10%;
+    border: 2px solid #1d7916;
+}
+
+.ball1 {
+    width: 100px;
+    height: 100px;
+    border-radius: 10%;
+    border: 2px solid #1d7916;
+    background-image: url('../../images/1.png'), linear-gradient(45deg, lightgray, white);
+}
+
+.ball2 {
+    background-image: url('../../images/2.png'), linear-gradient(45deg, lightgray, white);
+}
+
+.ball3 {
+    background-image: url('../../images/3.png'), linear-gradient(45deg, lightgray, white);
+}
+
+.ball4 {
+    background-image: url('../../images/4.png'), linear-gradient(45deg, lightgray, white);
+}
+
+.ball5 {
+    background-image: url('../../images/5.png'), linear-gradient(45deg, lightgray, white);
+}
+
+.ball6 {
+    background-image: url('../../images/6.png'), linear-gradient(45deg, lightgray, white);
+}
+
+.ball7 {
+    background-image: url('../../images/7.png'), linear-gradient(45deg, lightgray, white);
+}
+
+.ball8 {
+    background-image: url('../../images/8.png'), linear-gradient(45deg, lightgray, white);
+}

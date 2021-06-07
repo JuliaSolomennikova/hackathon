@@ -1,0 +1,27 @@
+.field {
+    background: rgba(63,179,22,0.7);
+    width: 510px;
+    height:510px;
+    border: 2px solid #1d7916;
+    border-radius: 5%;
+}
+
+.memory{
+    padding: 5px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+    width: 500px;
+    height: 500px;
+    justify-items: center;
+    align-items: center;
+}
+
+
+
+.title {
+    font-family: "Comic Sans MS", sans-serif;
+    color: #1d7916;
+    text-align: center;
+}
+
